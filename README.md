@@ -7,4 +7,4 @@ ollama run your_favorite_model
 This will download the model you want to use (it may take time as we are on a few Go for the model).  
 ## Step 3: Create your python project  
 For the model, you just need the openai module, for the speaking interface, you'll need playsound and gtts.  
-Thanks to @jmanali1996 for sharing the howto!
+Thanks to @jmanali1996 for sharing the howto for the speaking interface and @Coding-with-Adam for my first steps with the openai package!
